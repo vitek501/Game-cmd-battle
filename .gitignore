@@ -1,0 +1,5 @@
+###Python template
+__pycache__
+*.py[cod]
+%SystemDrive%/
+*.sublime-workspace
